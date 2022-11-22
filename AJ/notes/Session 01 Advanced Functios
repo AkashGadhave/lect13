@@ -1,0 +1,64 @@
+Advanced Javascript 
+  What is function 
+   i.function defination     
+   ii.function calling 
+   
+types 
+  i.simple funciton 
+  ii.parametrized function 
+  iii.return function
+  
+1.Advanced Function 
+    1.Function define 
+	        functio fun()
+			 {
+			 console.log('hi ')
+			 }
+	        i.By Expression 
+			       we store function in a variable.
+				   
+				let exp=function fun()
+				   {
+				   
+				   }
+				   
+				   exp()
+				   
+		iii. Arrow (Fat Arrow) =>
+                   i.need not to write function keyword
+					ii. function name not required 
+					iii. braces 
+					iv.need to use arrow 
+				   
+	
+	2.Function calling 
+	
+	            
+	   call by value 
+	   call by referance 
+ 
+
+3.Call Back Function 
+4.Higher Order Function 
+5.IIFE (IMMIDIATE Invoked Function Expression)
+6.REST PARAMETER 
+7.Spread Operator   
+     
+2.Advaced Scope 
+3.Class And Object 
+4.Iterator 
+
+5. Javascript Engine
+            Interperter
+			Compiler
+			  interal working of Engine 
+			     i.V8 NODE JS V8 
+				 
+
+
+BOM - BROWSER 	
+      WINDOWS, DOCUMENT , INBUILT OBJECT 
+	  
+API ->	 
+
+    PROJECT   - 
