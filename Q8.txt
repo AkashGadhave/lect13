@@ -1,0 +1,6 @@
+//State the difference between = =and = ==.
+
+== is used for comparing two variables, 
+but it ignores the datatype of variable whereas 
+=== is used for comparing two variables, 
+but this operator also checks datatype and compares two values.
