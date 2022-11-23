@@ -1,0 +1,18 @@
+Q1. Explain Release Version History of JavaScript with Current Version.
+
+Ans= JavaScripts release version was ES1 and Current version is ES6 
+
+Q2. What is first name of JavaScript and why JavaScript name ma JavaScript?
+
+Ans= It was originally named Mocha later it was renamed to LiveScript, and then to JavaScript. The LiveScript to JavaScript name change came because Netscape and Sun did a license agreement.
+
+Q3. What is ECMA Script?
+
+Ans= ECMA Script, also known as JavaScript, is a programming language adopted by the European Computer Manufacturer's Association as a standard for performing computations in Web applications.
+
+Q4. What is Difference Between Framework and Library?
+
+Ans= 
+    Framework:- Framework, on the other hand, is like the foundation upon which developers build applications for specific platforms.
+    
+    Library:- Libraries provide developers with predefined functions and classes to make their work easier and boost the development process.
