@@ -1,0 +1,4 @@
+i. < = less than
+ii. ++ = increment
+iii. && = all  true then only true 
+iv. ? = conditional or question mark operator

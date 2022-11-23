@@ -1,0 +1,27 @@
+main{
+    height: 100px;
+    width: 500px;
+    background-color: yellowgreen;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 40px;
+    border: 5px solid black;
+}
+button{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px 5px 5px 5px;
+    color: beige;
+    background-color: black;
+    font-size: 15px;
+    font-style: bold;
+    
+}
+button:hover{
+    background-color: beige;
+    color: black;
+    height: 35px;
+    width: 255px;
+}
